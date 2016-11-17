@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>svg</title>
+    <link rel="stylesheet" href="css/main.css">
+    <!--[if lte IE 8]>
+    <link rel="stylesheet" href="css/ie.css">
+    <![endif]-->
+
+    <script src="js/svg4everybody.legacy.js"></script>
+    <script>svg4everybody();</script>
+</head>
+<body>
+
+<h1>Using SVG</h1>
+
+<h2>Using "inline" SVG</h2>
+
+<svg role="img" aria-label="Icon" class="svg svg--arrow-left">
+    <use xlink:href="images/svg/sprite/sprite.svg#arrow-left"/>
+</svg>
+
+<svg role="img" aria-label="Icon" class="svg svg--arrow-right">
+    <use xlink:href="images/svg/sprite/sprite.svg#arrow-right"/>
+</svg>
+
+<h2>Using SVG as background-image</h2>
+
+<div class="icon icon--arrow-left"></div>
+<div class="icon icon--arrow-right"></div>
+</body>
+</html>

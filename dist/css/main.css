@@ -1,0 +1,33 @@
+.icon--arrow-down {
+  background-image: url("data:image/svg+xml;charset=US-ASCII,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22512%22%20height%3D%22512%22%20viewBox%3D%220%200%20512%20512%22%3E%3Cpath%20d%3D%22M76.8%2099.2L0%20176l256%20256%20256-256-76.8-76.8L256%20278.4z%22%2F%3E%3C%2Fsvg%3E");
+  background-repeat: no-repeat;
+}
+
+.icon--arrow-left {
+  background-image: url("data:image/svg+xml;charset=US-ASCII,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22512%22%20height%3D%22512%22%20viewBox%3D%220%200%20512%20512%22%3E%3Cpath%20d%3D%22M412.8%20435.2L336%20512%2080%20256%20336%200l76.8%2076.8L233.6%20256z%22%2F%3E%3C%2Fsvg%3E");
+  background-repeat: no-repeat;
+}
+
+.icon--arrow-right {
+  background-image: url("data:image/svg+xml;charset=US-ASCII,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22512%22%20height%3D%22512%22%20viewBox%3D%220%200%20512%20512%22%3E%3Cpath%20d%3D%22M99.2%20435.2L176%20512l256-256L176%200%2099.2%2076.8%20278.4%20256z%22%2F%3E%3C%2Fsvg%3E");
+  background-repeat: no-repeat;
+}
+
+.icon--arrow-up {
+  background-image: url("data:image/svg+xml;charset=US-ASCII,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22512%22%20height%3D%22512%22%20viewBox%3D%220%200%20512%20512%22%3E%3Cpath%20d%3D%22M76.8%20412.8L0%20336%20256%2080l256%20256-76.8%2076.8L256%20233.6z%22%2F%3E%3C%2Fsvg%3E");
+  background-repeat: no-repeat;
+}
+
+.icon {
+  background-size: 64px 64px;
+  display: inline-block;
+  height: 64px;
+  width: 64px;
+}
+
+.svg {
+  height: 64px;
+  width: 64px;
+}
+
+/*# sourceMappingURL=main.css.map */
