@@ -1,8 +1,8 @@
 {
-  "name": "svg",
+  "name": "grunt-svg",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://github.com/Schascha/BeefUp",
+  "homepage": "",
   "authors": [
     "Sascha Künstler <contact.schascha@gmail.com> (http://www.schaschaweb.de)"
   ],
